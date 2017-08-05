@@ -3,4 +3,3 @@ bananas
 oranges
 potatoes
 plums
-s
