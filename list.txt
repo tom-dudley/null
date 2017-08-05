@@ -2,4 +2,3 @@ apples
 bananas
 oranges
 potatoes
-pears
