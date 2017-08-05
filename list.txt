@@ -3,4 +3,4 @@ bananas
 oranges
 potatoes
 plums
-foods
+food
